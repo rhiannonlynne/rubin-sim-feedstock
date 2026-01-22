@@ -150,6 +150,3 @@ Feedstock Maintainers
 * [@tribeiro](https://github.com/tribeiro/)
 * [@yoachim](https://github.com/yoachim/)
 
-
-<!-- dummy commit to enable rerendering -->
-
